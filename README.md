@@ -4,3 +4,4 @@ Starter Theme - Includes
 - Fancybox
 - Fontawesome
 - Bootstrap
+- Jquery
