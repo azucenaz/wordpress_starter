@@ -1,2 +1,6 @@
-# wordpress_starter
-Starter Theme
+# Wordpress Starter Theme
+Starter Theme - Includes
+
+- Fancybox
+- Fontawesome
+- Bootstrap
